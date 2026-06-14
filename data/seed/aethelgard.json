@@ -1,0 +1,73 @@
+{
+  "id": "aethelgard",
+  "name": "The Sunken Realm of Aethelgard",
+  "premise": "A drowned kingdom of glass towers and tidal magic, where the sea is slowly reclaiming a civilization that once bottled the dawn.",
+  "tone": "lyrical, melancholic, hopeful",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "updatedAt": "2026-01-01T00:00:00.000Z",
+  "lore": [
+    {
+      "id": "loc-glasshold",
+      "kind": "location",
+      "title": "Glasshold, the Last Spire",
+      "body": "Glasshold is the final tower still rising above the rising tide, a spiral of fused sea-glass that hums when the moon is full. Its lower forty floors are flooded and walked only by lantern-divers. At its crown sits the Dawn Vault, sealed since the Drowning. Lamps of trapped sunlight light its stairwells, dimming a little more each year as the old dawn leaks away.",
+      "tags": ["glasshold", "tower", "dawn vault", "capital", "flooded"]
+    },
+    {
+      "id": "loc-tidemarket",
+      "kind": "location",
+      "title": "The Tidemarket",
+      "body": "A floating bazaar lashed together from the roofs of drowned houses, the Tidemarket drifts on the currents between the spires. Merchants trade in bottled weather, salvaged memories, and tide-charts. It is neutral ground; no faction may draw a blade across its planks, by the old Salt Accord.",
+      "tags": ["tidemarket", "trade", "neutral", "salt accord", "bazaar"]
+    },
+    {
+      "id": "char-maren",
+      "kind": "character",
+      "title": "Maren Tideglass, Lantern-Diver",
+      "body": "Maren is a young lantern-diver who maps the flooded floors of Glasshold for the Cartographers' Guild. She carries her late mother's brass diving lamp, which never floods, and she alone can hear the Spire hum a warning before a flood-surge. She is stubborn, seasick on calm days, and secretly believes the Dawn Vault can be reopened.",
+      "tags": ["maren", "lantern-diver", "protagonist", "brass lamp", "cartographers guild"]
+    },
+    {
+      "id": "char-veyl",
+      "kind": "character",
+      "title": "Archivist Veyl",
+      "body": "Veyl is the blind Archivist of Glasshold, keeper of the Tide-Charts and the only living person who remembers the words of the Drowning. He speaks in tide-tables and riddles, distrusts the Salt Wardens, and once apprenticed Maren's mother. He believes some doors were drowned for good reason.",
+      "tags": ["veyl", "archivist", "mentor", "blind", "tide-charts"]
+    },
+    {
+      "id": "fac-saltwardens",
+      "kind": "faction",
+      "title": "The Salt Wardens",
+      "body": "The Salt Wardens are the militant order that rations the trapped sunlight and enforces the Salt Accord. They wear coats woven with dried kelp and believe the rising tide is a judgment to be endured, not fought. They have forbidden any expedition to the Dawn Vault, fearing it will hasten the flood.",
+      "tags": ["salt wardens", "faction", "order", "antagonist", "dawn vault forbidden"]
+    },
+    {
+      "id": "art-brasslamp",
+      "kind": "artifact",
+      "title": "The Brass Diving Lamp",
+      "body": "An heirloom lamp of unflooding brass that holds a sliver of the old dawn. Underwater it glows gold and pushes back the dark; in its light, drowned memories briefly replay in the water. Maren inherited it from her mother, who vanished mapping the fortieth floor.",
+      "tags": ["brass lamp", "artifact", "dawn", "memory", "maren"]
+    },
+    {
+      "id": "art-dawnvault",
+      "kind": "artifact",
+      "title": "The Dawn Vault",
+      "body": "At Glasshold's crown lies the Dawn Vault, where the first engineers of Aethelgard bottled an entire sunrise to power the realm. When it cracked, the tide began to rise. Legend says reopening it could either drain the sea or drown the world entirely — the Tide-Charts disagree on which.",
+      "tags": ["dawn vault", "artifact", "sunrise", "tide", "myth"]
+    },
+    {
+      "id": "evt-drowning",
+      "kind": "event",
+      "title": "The Drowning",
+      "body": "Three generations ago the Dawn Vault cracked during the Long Eclipse, and the sea began its slow climb. Whole districts sank in a single night. The survivors fled upward into the spires and swore the Salt Accord. No one agrees what cracked the Vault, only that the water has never stopped rising since.",
+      "tags": ["drowning", "event", "eclipse", "catastrophe", "salt accord"]
+    },
+    {
+      "id": "concept-tidemagic",
+      "kind": "concept",
+      "title": "Tidal Magic",
+      "body": "Magic in Aethelgard is drawn from the pull between moon and sea. Tideworkers can bottle weather, calm a surge, or read the future in the patterns of receding water. Power waxes and wanes with the tide, so the most dangerous spells are cast only at the turning, the slack moment between ebb and flow.",
+      "tags": ["tidal magic", "concept", "moon", "tideworkers", "the turning"]
+    }
+  ]
+}

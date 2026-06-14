@@ -1,0 +1,2 @@
+# This file keeps the user-worlds directory in version control while the
+# actual generated world files (data/worlds/*.json) are gitignored.
